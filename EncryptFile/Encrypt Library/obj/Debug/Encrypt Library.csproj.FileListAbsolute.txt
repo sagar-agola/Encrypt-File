@@ -1,0 +1,6 @@
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\bin\Debug\Encrypt Library.dll
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\bin\Debug\Encrypt Library.pdb
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\obj\Debug\Encrypt Library.csprojResolveAssemblyReference.cache
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\obj\Debug\Encrypt Library.csproj.CoreCompileInputs.cache
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\obj\Debug\Encrypt Library.dll
+C:\Users\N3o\source\repos\EncryptFile\Encrypt Library\obj\Debug\Encrypt Library.pdb

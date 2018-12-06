@@ -1,0 +1,20 @@
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe.config
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\EncryptFile.pdb
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.EncryptFile.resources
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.Properties.Resources.resources
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csproj.GenerateResource.Cache
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csproj.CoreCompileInputs.cache
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.pdb
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\MaterialSkin.dll
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\MetroFramework.dll
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\Bunifu.Core.dll
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe.manifest
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\EncryptFile.application
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe.manifest
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\obj\Debug\EncryptFile.application
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\Encrypt Library.dll
+C:\Users\N3o\source\repos\EncryptFile\EncryptFile\bin\Debug\Encrypt Library.pdb
